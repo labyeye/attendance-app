@@ -19,7 +19,7 @@ const MarkAttendanceScreen = ({navigation}) => {
   useEffect(() => {
     const fetchStudents = async () => {
       try {
-        const response = await axios.get('http://localhost:5005/students');
+        const response = await axios.get('https://attendance-app-ku25.onrender.com/students');
         setStudents(response.data);
       } catch (error) {
         console.error('Error fetching students:', error);
@@ -34,7 +34,7 @@ const MarkAttendanceScreen = ({navigation}) => {
       await Promise.all(
         Object.entries(attendance).map(([studentId, status]) => {
           const student = students.find(s => s.id === studentId);
-          return axios.post('http://localhost:5005/attendance', {
+          return axios.post('https://attendance-app-ku25.onrender.com/attendance', {
             studentId,
             name: student.name,
             date,

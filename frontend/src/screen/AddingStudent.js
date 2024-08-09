@@ -7,7 +7,7 @@ const AddStudentScreen = ({ navigation }) => {
 
   const handleAddStudent = async () => {
     try {
-      await axios.post('http://localhost:5005/students', { name });
+      await axios.post('https://attendance-app-ku25.onrender.com/students', { name });
       Alert.alert('Success', 'Student added');
       setName('');
       navigation.navigate('MarkAttendance');

@@ -9,7 +9,7 @@ const ViewAttendanceScreen = ({navigation}) => {
   const fetchAttendanceRecords = async () => {
     try {
       const response = await axios.get(
-        `http://localhost:5005/attendance/${studentName}`,
+        `https://attendance-app-ku25.onrender.com/attendance/${studentName}`,
       );
       setAttendanceRecords(response.data);
     } catch (error) {
