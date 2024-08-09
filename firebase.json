@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "christ-attendance-app",
+  "private_key_id": "9ae756baa06b1165f9c2def9f3e78f16b66c3a14",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXTrzD38oFiHiJ\nJ14AXGHD0cBL0E/M31h7TZmAlS1rdP4jyaCKfwpyMi3HN3Y4q+s+lkfwGozKwbqp\nEadPjWBtzcgEnMRgbfar82JdExjRvg4V3ZuP0tvSSI39Gjo2QHQSNzL6vJSEiOol\nFR4NFxAWctwkTlHzJcxvd/9ryccbFLe4NngwigbSBpuCTZVbgLc9ydXh5gi8op4E\n0zxFeap3JatdevopMCeATg/SRP2HJ37vm0AK3MLSNt3hRLZcqMFRx39MsOjvORDI\njwYMPVvQgq3EhgK5gdvDeQ9OKt+jVIxzFu8fOlewUo27uemrUDEJjMONEP+AhRht\njSmE9ou/AgMBAAECggEAa3LN3WqXZT9/9+J/lOqFl7Xbo3on+PQVMiO90V+hNRlD\noxSCW9uemPLVya+x/gI9+hQBfp+hV6ZqwukeeCLz1ph1k2ew0PbPvWxO0GgxYKra\nWKspcRMnxL+UrJUkK+LqihSmCl+GNsYlI7BwONQjoTBdEHlNiGx6o75c56vhA2/e\nRPGJ2GjnB6JGAqpfYxQwd9d6V8dmwcgL+V4LDQvk3ZJLTtYTpf3hCoOcaZ6j0T3I\nZVL2GQLFqWmIGIR5dJVAfu1zM9e2dxuHQI1vsckulX1lwnJmlzunYPPBMVApmUWd\nLQrm/FUzkQwTnsvQPsK9xDrBTuCDAlLBKKdfBUU50QKBgQD/EzR5HkUrClk1OQl2\nBxlXEAZufWaqJKj/bpAg/8NcB2iyHtHmPmO42q7L5C/O265GBLGdYgXHDJ/zrY3b\ng9HvW7mkPw/QPcnSj4wroE36qobabMShToc36srceZfGFjOBUritX+XA6H7TYpFL\nPkOXnpNDmR1sYI0ZJHG5ORngIwKBgQDYFp1oxZI2XnvW/frjwKSmw+Q67HG66lPm\nzmpFZ/D/ClmLUyg8ilaniGPNRiW70BPAfl5YWOaF9CcVBFrGTMWPcXm/DXsxt+pl\nJ7UYQ3IDr15omFxaaFDcYtrcLHb2GRZpFJBh+HfkFMW2OWpgMcHoLy9/CD3DSaCm\nAwxxr0BRtQKBgQDQl4n/yktSKUJOjfg4txF36zj3PkGovhYd3PKsqbu/FKf/kcig\n+0BduSfcwRx/k5Lu24PMao7C+oYLplAtxZz2mxIzSQbLitvy/0TnoE5kwPNKyEv8\nhdV6Wt3Ocvk1Go7AIT+5OIUQvpCImUCsQZzQ7vMLArnXGRYKC42cpR+N9QKBgQCZ\nkSDW56nsR6N8+8yEdVDOT2LwWT7OFmAAJGuz3ZWQuts+P5/Vvn6s2yoKJTMF0W9o\nGqaT5MIXKpdnwUt9p+uy8HMUStFlWQ4US27QyoXJhqTycm0XtxDYPszJMjRs2xFp\nJjsh1QHnLrf/s7gcmt/yUS5Q+htioP2xXXNHi8OLDQKBgDgyje+Ll5Cj0dLh7AF6\nBSIzlZ1g8hKh8jjO9Xg7HBifFgWFFD/t2XYw0+vx4MxIffmPIKehQG2m/Vh1PYnU\njxhuwpLj1xKWfSYookPuGJOK3iE1RVWAzItRRKixhiBS6rN9gTkss7wC0hd0IcGF\nvK7wUSFsI/+M/lG0rnGbNSlp\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-k60dc@christ-attendance-app.iam.gserviceaccount.com",
+  "client_id": "103773708175640568975",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-k60dc%40christ-attendance-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
