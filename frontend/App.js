@@ -14,7 +14,7 @@ const App = () => {
         <Drawer.Screen name="MarkAttendance" component={MarkAttendanceScreen} options={{ title: 'Mark Attendance' ,headerStyle:{
           backgroundColor:'#FFF9D0'
         }}} />
-        <Drawer.Screen name="AddStuden" component={AddStudentScreen} options={{ title: 'Add Student',headerStyle:{
+        <Drawer.Screen name="AddStudent" component={AddStudentScreen} options={{ title: 'Add Student',headerStyle:{
           backgroundColor:'#FFF9D0'
         } }} />
         <Drawer.Screen name="ViewAttendance" component={ViewAttendanceScreen} options={{ title: 'View Attendance',headerStyle:{
