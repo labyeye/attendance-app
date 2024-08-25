@@ -33,6 +33,8 @@
 		8C1B21642C60CD6700F6EAC6 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8C1B21452C60CD4A00F6EAC6 /* Octicons.ttf */; };
 		8C1B21652C60CD6700F6EAC6 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8C1B21502C60CD4A00F6EAC6 /* SimpleLineIcons.ttf */; };
 		8C1B21662C60CD6700F6EAC6 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8C1B214B2C60CD4A00F6EAC6 /* Zocial.ttf */; };
+		8CA504922C7996B6000EB03E /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CA504912C7996B6000EB03E /* image.png */; };
+		8CA504942C799ACE000EB03E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CA504932C799ACE000EB03E /* Assets.xcassets */; };
 		8CF4984B4407960DFF399B3B /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 829D0122E409EC8C47A3B44F /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
@@ -84,6 +86,8 @@
 		8C1B21512C60CD4A00F6EAC6 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		8C1B21522C60CD4A00F6EAC6 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		8C1B21532C60CD4A00F6EAC6 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		8CA504912C7996B6000EB03E /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
+		8CA504932C799ACE000EB03E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -131,7 +135,9 @@
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
+				8CA504932C799ACE000EB03E /* Assets.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
+				8CA504912C7996B6000EB03E /* image.png */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
@@ -323,6 +329,7 @@
 				8C1B215A2C60CD6700F6EAC6 /* FontAwesome5_Regular.ttf in Resources */,
 				8C1B215B2C60CD6700F6EAC6 /* FontAwesome5_Solid.ttf in Resources */,
 				8C1B215C2C60CD6700F6EAC6 /* FontAwesome6_Brands.ttf in Resources */,
+				8CA504922C7996B6000EB03E /* image.png in Resources */,
 				8C1B215D2C60CD6700F6EAC6 /* FontAwesome6_Regular.ttf in Resources */,
 				8C1B215E2C60CD6700F6EAC6 /* FontAwesome6_Solid.ttf in Resources */,
 				8C1B215F2C60CD6700F6EAC6 /* Fontisto.ttf in Resources */,
@@ -335,6 +342,7 @@
 				8C1B21662C60CD6700F6EAC6 /* Zocial.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				8CA504942C799ACE000EB03E /* Assets.xcassets in Resources */,
 				8CF4984B4407960DFF399B3B /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
